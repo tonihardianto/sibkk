@@ -1,0 +1,1 @@
+[25-Jan-2021 17:26:11 Asia/Jakarta] PHP Fatal error:  Cannot redeclare M_loker::getLoker() in /home/bkksagak/public_html/application/models/M_loker.php on line 18
